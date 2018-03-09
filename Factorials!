@@ -1,0 +1,11 @@
+/*
+ * Programming Quiz: Factorials (4-7)
+ using for loop.
+ */
+
+// your code goes here
+var solution = 1;
+for(var n = 12; n>=1;n--){
+    solution *= n; 
+}
+console.log(solution);
