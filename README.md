@@ -20,6 +20,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 
 https://api.jquery.com/
 
+http://javascriptissexy.com/how-to-learn-javascript-properly/
+
 
 Need to know:
 
